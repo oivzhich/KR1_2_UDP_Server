@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea/
+/UDP_Server.iml
